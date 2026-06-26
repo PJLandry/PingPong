@@ -1,6 +1,6 @@
-P i n g P o n g
+***P i n g P o n g***
 
-PingPong is a simple multi-host ping tool.  <br>
+PingPong is a simple multi-host ping tool.
 - Simultaneous ping to  multi hosts
 - Each host can be in one of two modes:
   - ICMP (ICMP Echo Request)
