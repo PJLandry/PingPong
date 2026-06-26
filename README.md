@@ -1,4 +1,4 @@
-***P i n g P o n g***
+**P i n g P o n g**
 
 PingPong is a simple multi-host ping tool.
 - Simultaneous ping to  multi hosts
