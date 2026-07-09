@@ -7,8 +7,8 @@ PingPong is a simple multi-host ping tool.
   - TCP (Full Syn -> SynAck -> Ack handshake, and Fin -> Ack teardown;  Equivalent to nmap "TCP connect scan" (-sT))
 - Save/load host list to/from CSV
 
-On Windows: 
-1- Download the dist.zip archive, it contains the required QT runtime files. Extract where appropriate
+On Windows: \
+1- Download the dist.zip archive, it contains the required QT runtime files. Extract where appropriate \
 2- Download pingpong.exe and place it in the same folder as the contents of the dist.zip file
 
 On Linux:  
